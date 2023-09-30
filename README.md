@@ -1,8 +1,8 @@
 # READ Me
 
-- 👋 Hi, I’m @karnop
+- 👋 Hi, I’m Manav
 - 👀 I’m interested in Java, C++
-- 🌱 I’m currently learning .....
+- 🌱 I’m currently learning Java Development with DSA
 - 📫 How to reach me ... : communicate.manav@gmail.com
 - [CodeForces Profile](https://codeforces.com/profile/kaalbhairav)
 
